@@ -1,0 +1,1 @@
+export const defaultProfileImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0d6y-VUpF8YrXRXpDU0CI868Zm-9D9lHdJYeOch1XjlISUiVhajTiivbkwPybGMPpXn0&usqp=CAU"

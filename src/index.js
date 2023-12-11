@@ -12,7 +12,7 @@ app.use(cors());
 //connect to database
 connectDB()
   .then(
-    app.listen(process.env.PORT || 4000, () =>{
+    app.listen(process.env.PORT || 8800, () =>{
       console.log(`⚙️  Server is running at port : ${process.env.PORT}`);
     })
   )
